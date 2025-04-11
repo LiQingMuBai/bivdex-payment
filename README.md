@@ -1,8 +1,8 @@
-# 1stpay
+# bivdex payment
 
 ## 1. Project Overview
 
-1stpay is a crypto payments service designed to streamline the acceptance and processing of cryptocurrency transactions. The platform provides a comprehensive solution for businesses and merchants, enabling seamless payment processing, conversion to stablecoins, mass payouts, and in-depth analytics. Its primary goal is to offer a secure, scalable, and versatile payment system that caters to various blockchain networks.
+bivdex payment is a crypto payments service designed to streamline the acceptance and processing of cryptocurrency transactions. The platform provides a comprehensive solution for businesses and merchants, enabling seamless payment processing, conversion to stablecoins, mass payouts, and in-depth analytics. Its primary goal is to offer a secure, scalable, and versatile payment system that caters to various blockchain networks.
 
 ## 2. Key Features
 
